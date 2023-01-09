@@ -16,3 +16,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em um mundo distópico em 2042, os jovens descobrem segredos governamentais sobre a pandemia. Lutando contra a opressão, eles tentam sobreviver.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] OLHAR DISCRETO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5de4b871daa1dfe0195b76881698549a46bcbaf8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mA0Qx70TI7mubGkUx8ekrYfZFnz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A trama gira em torno de Miranda, uma voyeur incontrolável e hacker extremamente habilidosa. Sua rotina é espiar pela janela a vida de Cléo, uma prostituta de luxo e moradora do prédio em frente. Certo dia, Cléo bate àsua porta e pede que Miranda cuide de seu cachorro enquanto faz uma viagem. Neste mesmo dia, o destino da hacker muda para sempre e ela conhece o homem dos seus sonhos. Mas, como em todo bom thriller, nada é o que parece ser.</info>
+</item>
