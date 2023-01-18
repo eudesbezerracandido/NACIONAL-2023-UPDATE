@@ -1,5 +1,12 @@
 # NACIONAL-2023-UPDATE
 
+<item>
+<title>[COLOR silver][B] CENA DO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:015192be21ebf5030ecf9c66bab810ed3939294b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oDj3CQnDCxNOSVFgbMgydz1AtRw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um thriller estruturalista de investigação. Em um bairro nobre do Rio de Janeiro, uma jovem é assassinada. Detetives são contatados, mas o assassino continua por perto.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] AS ALMAS QUE DANÇAM NO ESCURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
