@@ -1,6 +1,23 @@
 # NACIONAL-2023-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] CARVÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4286b5ebbe17cb6dc56677dc58e5ccc38d7de794</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m7qAoDKCtOQyOgp3FlPiC95Ddb5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Numa pequena cidade do interior, uma família recebe uma proposta rentosa, mas também perigosa: hospedar um desconhecido em sua casa. Antes mesmo da chegada dele, no entanto, arranjos precisarão ser feitos, e a vida em família começa a se transformar. Porém, nenhum dos familiares, e muito menos o próprio hóspede, vê suas expectativas cumpridas.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] PRONTO! FALEI  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4f588054ce89cd341cec73e59a4642622de4277</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a1bu48BHurEJxy865CdgWPhO5IL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Renato (Nicolas Prattes) é um jovem tímido e inseguro, que expressa o que verdadeiramente pensa apenas através de e-mails. Escreve para o colega de trabalho (Romulo Arantes Neto), para a namorada (Kéfera Buchmann), para os pais... não esconde nada, diz tudo o que pensa. Absolutamente tudo! E na hora de enviar... não envia. Grava na pasta de rascunhos. Um dia, sem nenhuma explicação, todos os seus rascunhos são enviados e, de uma hora para outra, ele precisa enfrentar as terríveis consequências de ser quem realmente é.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] TODO DIA A MESMA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04cccea3c09f91aa5e3fa1d791f6720f22e0c303</link>
