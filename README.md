@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ABESTALHADOS 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5327c66ca70b126112572b0118a888b484ef6843</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/etUWISr3ybZ1Uv0xPIExB8V77TL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> ABESTALHADOS 2 é uma comédia, na forma de falso documentário (mockumentary), sobre os bastidores da criação e filmagem de um longa-metragem fictício (Abestalhados 2 propriamente dito). Ele conta a história de um filme que está sendo planejado e realizado com a ambição de ser um grande sucesso de público, mas a equipe acaba tropeçando em suas limitações e vaidades, criando uma divertidíssima comédia de erros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CARVÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4286b5ebbe17cb6dc56677dc58e5ccc38d7de794</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/m7qAoDKCtOQyOgp3FlPiC95Ddb5.jpg</thumbnail>
