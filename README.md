@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] NUCARÁGUA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QURIJZ3L6CMGN6BM7IJVG5YEGXEQ7YUD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> SETE EM CADA DEZ PESSOAS NO MUNDO vivem em países considerados sem liberdade e sem democracia, de acordo com a Organização das Nações Unidas. Um número que vem crescendo de maneira significativa nos últimos anos. Em tal cenário, o maior país da América Central também tem sido palco de regimes políticos que relativizam a liberdade dos seus cidadãos: falamos da Nicarágua. Nas ruas, a oposição ao atual ditador, Daniel Ortega, clama por liberdade. Uma guerra que deixou de ser somente contra uma ditadura, mas pela preservação da história e da liberdade de uma nação. Revisitamos o passado da Nicarágua com uma única intenção: levar ao mundo a história de um povo que hoje é vítima do governo do seu próprio país. Uma investigação inédita com pessoas que afirmam ter vivido a ditadura nicaraguense na pele, entre elas Zoilamérica Murillo — enteada do atual ditador Daniel Ortega —, Humberto Belli, ex-ministro da educação e historiador, além de outros sobreviventes e exilados políticos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ABESTALHADOS 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5327c66ca70b126112572b0118a888b484ef6843</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/etUWISr3ybZ1Uv0xPIExB8V77TL.jpg</thumbnail>
