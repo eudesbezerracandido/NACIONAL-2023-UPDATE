@@ -1,6 +1,12 @@
 # NACIONAL-2023-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] CORDIALMENTE TEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6d6723c6790d01b1dc4c83acdd537d7900afe86</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lM8bbrlsAAs8dUHO92HH3VGvAqm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dez histórias ou uma só. Dez momentos na linha do tempo – 1972, 1999, 1550, 2083, 1891, 2012, 1618 Uma revolta de escravos numa fazenda de café, a tortura de um índio, o sequestro de um embaixador, judeus se escondendo da Inquisição, uma torturada que revê seu torturador na plateia para a qual conta o crime cometido por ele, pai e filho conversando durante a Segunda Guerra, uma viúva que perdeu tudo na Encilhada e é forçada a se casar e perder a liberdade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NUCARÁGUA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
