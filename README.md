@@ -1,5 +1,14 @@
 # NACIONAL-2023-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] WHINDERSON NUNES - ISSO NÃO É UM CULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GPT4N3ZWRVAF4JHRHALL4ZHNA4NQ6VLV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u75g9BM9t3YEAmfH0jYL7iZAsy9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> É o fim do mundo, e ele sabe disso. Neste especial de stand-up, Whindersson Nunes reflete sobre atualidades, redes sociais, religião e muito mais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CORDIALMENTE TEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6d6723c6790d01b1dc4c83acdd537d7900afe86</link>
