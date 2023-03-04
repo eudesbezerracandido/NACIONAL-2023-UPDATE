@@ -1,6 +1,15 @@
 # NACIONAL-2023-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] ESCOLA DE QUEBRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e35dfcc46c4b48fb7bd76896f5947a1005e94b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Luan é um jovem estudante de escola pública da Zona Leste de São Paulo que, cansado de sempre ser excluído dos grupinhos e ser invisível aos olhos de Camila, quer ser respeitado e popular. Na tentativa de fazer parte de algum grupo, Luan consegue fazer o oposto de conquistar a amizade de alguém, o que até coloca em risco o amado campeonato de futsal da escola. Para fugir dessa bagunça, ele vai precisar da ajuda de seus amigos Rayanne e Deivid para encontrar uma maneira de salvar o campeonato e obter a tão desejada atenção de Camila.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] WHINDERSON NUNES - ISSO NÃO É UM CULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GPT4N3ZWRVAF4JHRHALL4ZHNA4NQ6VLV</link>
