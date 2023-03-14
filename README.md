@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MAIOR QUE O MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5f6fba96e7e8c9b47f39989097192d8cabfd734</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nLTgQrVSIhjT1wRQGIRr9JhvUjx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kbeto, um escritor cinquentão que sofre de bloqueio criativo há 20 anos, vive atrás de inspiração para escrever seu segundo romance e acabar com a fama de autor de um sucesso só. Ele procura inspirações na vida boêmia no Baixo Augusta, em São Paulo, até que certa noite ele encontra um diário numa caçamba. Ele transcreve e publica o que lê, mas quando o autor da história aparece com uma ira criminosa, ele tem que lidar com a vontade do autor do diário de puxar o gatilho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESCOLA DE QUEBRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e35dfcc46c4b48fb7bd76896f5947a1005e94b9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg</thumbnail>
