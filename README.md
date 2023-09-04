@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] IMPUROS - O FILME NACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZFLLLBD5GGKLJX542POWZ73NTLLYIAQR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Evandro do Dendê, um jovem da favela carioca, busca vingança quando o seu irmão traficante é morto. Já o policial alcoólatra Victor Morello cruza o caminho de Evandro em um assalto e não economiza esforços para prendê-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS AVENTURAS DE JOSÉ & DURVAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3adae666a66945bda781cb3589c81d7ecb492fcc$nome=EP.1/4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bGeXTTz0BFlK2FYyiCNyEGsrZcZ.jpg</thumbnail>
