@@ -13,6 +13,8 @@
 <item>
 <title>[COLOR silver][B] AS AVENTURAS DE JOSÉ & DURVAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3adae666a66945bda781cb3589c81d7ecb492fcc$nome=EP.1/4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TVBNMX7OO4G6R4SUQGUMKBB2Y35UB4JR$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LVP3LRTDNLNM2UAH7HKKKAEYRESB5NMQ$nome=EP.6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bGeXTTz0BFlK2FYyiCNyEGsrZcZ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em As Aventuras de José e Durval, conhecemos a trajetória de uma das duplas sertanejas mais influentes e importantes na história do Brasil. Chitãozinho e Xororó é formada pelos irmãos José Lima Sobrinho (Felipe Simas) e Durval de Lima (Rodrigo Simas), nascidos em Astorga, Paraná. Conhecidos por hits inesquecíveis através das décadas, Chitãozinho & Xororó são recordistas em vendas de discos no Brasil, com mais de 37 milhões de discos vendidos e quatro vitórias no Grammy Latino. A série conta a vida da dupla a partir do início, mostrando a relação dos irmãos com a família, o estrelato e também revela a origem de algumas músicas de maior sucesso.</info>
