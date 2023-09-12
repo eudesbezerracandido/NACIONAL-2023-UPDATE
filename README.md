@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A FREIRA 2 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2852709238820e80c4ca6fd3c5c56775d26b3e9b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] IMPUROS - O FILME NACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZFLLLBD5GGKLJX542POWZ73NTLLYIAQR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg</thumbnail>
