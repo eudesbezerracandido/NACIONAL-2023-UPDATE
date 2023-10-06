@@ -5,7 +5,7 @@
 <item>
 <title>[COLOR silver][B] ANGELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc6d6667ff4d3bd1e640e09a8fded57357625010</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rrtvniUR4OSpGqypScj3ebQ2kI1.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/1sRxjAw0LwV7GvwUHqb7YnyDp3D.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após uma tumultuada separação e ter que ceder a guarda dos seus três filhos, a famosa socialite Angela Diniz conhece Raul, e acredita ter encontrado alguém que ama seu espírito livre tanto quanto ela. A atração avassaladora fez o casal largar tudo e viver o sonho de reconstruir suas vidas na casa de praia. Mas a vida tranquila rapidamente se transforma quando Raul começa a se mostrar um homem agressivo, violento e controlador. A relação declina para o abuso e a violência, dando origem a um dos casos de assassinato mais famosos de todos os tempos no Brasil.</info>
 </item>
