@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] HOW TO BE A CARIOCA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADBEF10DD29161BF2E96257E73A94C0556D30409</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jcB829cpheFpNTjqAcVvAVKIcsm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Irene da Argentina, Matthias da Alemanha, Nabil da Síria, Laila de Israel e Karima de Angola visitam o Rio de Janeiro por diferentes motivos. Eles conhecem um sujeito especial que os ajuda a resolver os problemas de um jeitinho único: esse cara é Francisco, um carioca por excelência. Ao final de sua jornada, cada gringo aprende que abraçar o estilo brasileiro é a única maneira de se sair bem.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ANGELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc6d6667ff4d3bd1e640e09a8fded57357625010</link>
