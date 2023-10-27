@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A MENINA QUE MATOU OS PÁIS-A CONFISSÃO (Suzanne Von Richtofen) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF3SSZMZXGL66OVBSOGAPJSW2QC26QFT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcdF2VcSwv4hUGBAhQiZSYw9OeH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Veja o que Suzane von Richthofen, Daniel Cravinhos e Cristian Cravinhos fizeram nos dias que sucederam o crime brutal que levou o casal Richthofen à morte. Este filme revela momentos cruciais da investigação policial, depoimentos e a confissão do crime.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HOW TO BE A CARIOCA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
