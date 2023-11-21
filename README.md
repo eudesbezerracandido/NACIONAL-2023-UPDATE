@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A MÃO DO EURICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXIQ4LKB2A3MV7MGKY2SUNLFIVGJN7OD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Nenhum cartola foi mais amado e odiado do que ele. Eurico Miranda colecionou títulos, muitas críticas e se tornou o dirigente mais polêmico da história do futebol brasileiro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NOSSO SONHO - CLAUDINHO & BUCHECHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40a2a3dca36b2bbf6b2ee08f8aa9399a1057f46d</link>
