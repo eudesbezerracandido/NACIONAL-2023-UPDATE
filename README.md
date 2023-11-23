@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - ELIS & TOM-SÓ TINHA DE SER COM VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57MKVGAWF6ZLDLW6LL23RGRXGCQ4LY2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uhrT7TXMOERTP20o7j1LvVStN73.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Los Angeles, 1974. Tom Jobim, a encarnação da Bossa Nova e Elis Regina, uma das cantoras mais populares do Brasil, se encontraram para gravar aquele que se tornaria um dos álbuns mais icônicos da história da música brasileira. Através de imagens raras e inéditas, "Elis & Tom" revela os conflitos e as alegrias de um momento único, numa viagem no tempo, revelando a intimidade do processo criativo e as personalidades extraordinárias destes fantásticos artistas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MÃO DO EURICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
