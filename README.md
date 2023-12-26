@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MAMONAS ASSASSINAS - POR TODA MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>yxtCEpc5MCc</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/P5pBgrflbVu3uIBs3QPoVzttpo.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Por Toda Minha Vida - Mamonas Assassinas foi um episódio do programa Por Toda Minha Vida, da Rede Globo, exibido em 10 de julho de 2008. Em 7 de dezembro de 2009, esse especial foi lançado em DVD com o selo EMI</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ELIS & TOM-SÓ TINHA DE SER COM VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57MKVGAWF6ZLDLW6LL23RGRXGCQ4LY2</link>
