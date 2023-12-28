@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MEU CUNHADO É UM VAMPIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2117597550ddeca347a12ebcc022140b54cbed08</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w1hyHgP4fyrW9tEqlX472bMgLO9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em Meu Cunhado é um Vampiro, um ex-jogador de futebol descobre que seu cunhado, além de ser esquisito e preguiçoso, é um vampiro. Anos depois de aposentar as chuteiras, Fernandinho (Leandro Hassum), se dedica à família e a apresentar um podcast esportivo. Sua rotina tranquila muda quando o irmão de sua esposa Vanessa (Monique Alfradique) chega de visita. Greg (Rômulo Arantes) é inconveniente, preguiçoso e tem hábitos muito estranhos. Quando uma suposta doença que estaria drenando o sangue de várias pessoas pelo Rio de Janeiro surge, Fernandinho liga os pontos e acaba descobrindo que o cunhado é um vampiro. Agora, ele precisa deixar o medo de lado para desmascará-lo e acabar com os planos cruéis do vampiro.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - MAMONAS ASSASSINAS - POR TODA MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
