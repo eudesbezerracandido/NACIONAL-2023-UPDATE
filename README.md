@@ -29,9 +29,9 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO-MAMONAS ASSASSINAS O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MAMONAS ASSASSINAS O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://s-delivery47.mxdcontent.net/v/79443cc32e8c7bac431592e68fe50812.mp4?s=j7xiUNyDDsCsK3WYmHM5eg&e=1706040298&_t=1706022796</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/P5pBgrflbVu3uIBs3QPoVzttpo.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Por Toda Minha Vida - Mamonas Assassinas foi um episódio do programa Por Toda Minha Vida, da Rede Globo, exibido em 10 de julho de 2008. Em 7 de dezembro de 2009, esse especial foi lançado em DVD com o selo EMI</info>
 </item>
