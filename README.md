@@ -4,6 +4,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA -  Ó PAI Ó [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SR3KGRB42OKYMVMQLCHVLQCFTYER3YEB$nome=Ó PAI Ó 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:decbcd08f91f0b82ee03226bb0af6942fa0a7958$nome=Ó PAI Ó 1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rTus3KG0ZAbqbuHWBafV7Adsbyf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Acompanhe a rotina de Roque anos depois do primeiro filme. O cortiço de Joana continua carregado de festas, fofocas e confusões. O bairro se prepara para a festa de Iemanjá, enquanto lida com as polêmicas dos vizinhos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PONTO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LFAKS73TU3UKCV7MQYP2CM4GTH36HIDM</link>
