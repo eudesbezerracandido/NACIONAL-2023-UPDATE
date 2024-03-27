@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O LADO BOM DE SER TRAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58924BBECA7F192D8B9721BA9C2AE03BA7B5237C</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/boPkFKrDSUeRxc9ltZRsuVSdRkz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> a contadora Babi (Giovanna Lancellotti) após descobrir que foi traída, decide dar a volta por cima. Ela vê a traição do noivo como uma oportunidade de transformar sua vida sexual, ao conhecer Marco (Leandro Lima), um juiz extremamente sexy e cheio de segredos para desvendar. Porém, mergulhar de cabeça nesse novo romance pode ser uma jornada muito mais perigosa do que ela imagina, resultando em consequências arriscadas. Uma adaptação do livro de Sue Hecker, pseudônimo da escritora brasileira Débora Gimenez.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  Ó PAI Ó [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SR3KGRB42OKYMVMQLCHVLQCFTYER3YEB$nome=Ó PAI Ó 2</link>
