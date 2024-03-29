@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PREDESTINADO: ARINGÓ E O ESPIRITO Dr. Flitz [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af45909a037272818bbb64f728a1490dddfe5876</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/udQKSwULzhqCpytrg084pJXw996.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> José Pedro de Freitas, mais conhecido por Zé Arigó (Danton Mello), era um homem simples que morava junto com a sua esposa Arlete (Juliana Paes) em Congonhas, Minas Gerais. Durante a década de 50, uma época em que a religião espírita não era tão conhecida e respeitada no país, Arigó tornou-se um símbolo de esperança através de suas cirurgias e curas espirituais. Baseada na história real, Arigó, com o auxílio do espírito de Dr. Fritz, fez inúmeras cirurgias espirituais em pessoas do Brasil e do mundo. Após várias dores de cabeça, insônia e visões, Arigó passou a ouvir vozes e sonhar com uma pessoa que se denominava como Adolph Fritzum, um médico alemão desencarnado durante a Primeira Guerra Mundial. Após um tempo rejeitando a alma, Arigó passou a fazer os desejos de Fritz, curando pessoas que precisavam de cirurgias espirituais. Apesar da desaprovação da Igreja Católica e das autoridades civis, Arigó fundou uma clínica à Rua Marechal Floriano, em Congonhas, onde chegava a tratar, gratuitamente, até duzentas pessoas por dia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O LADO BOM DE SER TRAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
