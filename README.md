@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DES-IGUALDADE- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8f5db69bcea48fe0b49459434e15513e3056f82</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7gXomzcKqzz0NRv6vtlxVa0bMs6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Depois de ingressar num dos mais concorridos colégios particulares de sua cidade, o menino Júlio é rapidamente impactado pela desigualdade social. Fruto da classe trabalhadora, ele enfrenta uma série de problemas cotidianos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PREDESTINADO: ARINGÓ E O ESPIRITO Dr. Flitz [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af45909a037272818bbb64f728a1490dddfe5876</link>
