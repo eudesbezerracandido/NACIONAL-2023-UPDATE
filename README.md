@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PAULINHO GOGÓ EM- TOP LOG SÓ É BEM ACOMPANHADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4e839b18871ff47862c10b3f5816dc0a5ad0e0</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nkaKeosG8cjWwU800jD6DQUf37X.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Tudo ia bem na vida de Paulinho Gogó, até que Nêga Juju, sua amada, o abandona. Como diz o ditado: azar no amor, boa sorte no jogo. Paulinho e seus amigos fazem fortuna com apostas, mas ele não fica satisfeito. Muitas reviravoltas, Paulinho percebe que para ser feliz basta seguir seu sonho: tocar samba com os amigos em seu bar preferido, onde reencontra seu novo amor.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O SERTÃO VAI VIR AO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced48d74bd8c255fc1f11de6c1ec389a9f5e430d</link>
