@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DONA LURDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5JTPHFHLINYHZZPOTJWUTK5PBFCUHU37</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/gKS02ZDoNbEPY1mMtnj1iwJJIxE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Dona Lurdes is a mother and housewife who is suffering from empty nest syndrome when her last child leaves home. To escape her loneliness, she goes in search of new ways to fill her days and her life. Due to her thirst for new things, Dona Lurdes will live new experiences, build friendships and new love.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PAULINHO GOGÓ EM- TOP LOG SÓ É BEM ACOMPANHADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4e839b18871ff47862c10b3f5816dc0a5ad0e0</link>
