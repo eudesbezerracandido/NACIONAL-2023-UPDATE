@@ -5,7 +5,14 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DUAOLOGIA - NOSSO LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed52958b5925bfe1faf46173e847da6ac764240c$nome=NOSSO LAR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd01299bcdae3a402334d59517f68b1917675fa0$nome=NOSSO LAR 2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6cP2MENe3zOj77ndC5TvoLq8MtU.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Cinco espíritos de Nosso Lar vêm à Terra em missão de resgate de projetos de vidas que correm perigo. André Luiz (Renato Prieto) junta-se ao grupo liderado pelo mentor Aniceto (Edson Celulari). Como missão, eles precisam ajudar Otávio (Felipe de Carolis), promissor médium que perdeu-se nas teias do egoísmo e, depois de morto, erra pelo mundo atuando contra os ex-companheiros Isidoro (Mouhamed Harfouch), líder de um grupo espírita, e Fernando (Rafael Sieg), empresário de sucesso responsável pelo financiamento do projeto comum a eles. Aniceto e seu grupo de aprendizes são responsáveis por tentar, como bons anjos da guarda, ajudar seus protegidos. Eles contam ainda com a ajuda das esposas Isis (Fernanda Rodrigues), Isabel (Juliane Trevisol) e Amanda (Vanessa Gerbelli), cujas trajetórias estão ligadas diretamente aos projetos espirituais, a fim de evitar algo que repete-se por anos: o fracasso das reencarnações. Baseado no romance Os Mensageiros, de Chico Xavier e André Luiz.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DONA LURDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
